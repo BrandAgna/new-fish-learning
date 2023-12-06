@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74202372-541e-4ddf-a4b5-5ba3af113bb4" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/newfish.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Connection-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Connections-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/ConstNode-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Layer-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Linear Unit and Gradient Descent-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Network-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Node-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore/.ipynb_checkpoints/Perceptron-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Connection-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Connections-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ConstNode-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Layer-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Linear Unit and Gradient Descent-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Network-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Node-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Perceptron-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README-请点开.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deeplearning/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/阶段总结 11.16.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/阶段总结 11.25.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="74202372-541e-4ddf-a4b5-5ba3af113bb4" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +21,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2Yrfpp6sO7mJgi4curwAcVv00Pc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
